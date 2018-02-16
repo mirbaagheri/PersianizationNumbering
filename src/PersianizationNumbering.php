@@ -1,5 +1,5 @@
 <?php
-namespace localization\persianizationNumbering;
+namespace mostafamiri65\persianizationNumbering;
 /**
  * Persianization Numbering
  *
